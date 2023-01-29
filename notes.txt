@@ -1,0 +1,6 @@
+to read
+what is emmetand what does it do.
+what is a CDN.
+what is crossorigin.
+what is shortest program of js- empty file.
+shortest program of react- empty file with react injected, like we did after injecting cdn
